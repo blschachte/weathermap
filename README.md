@@ -1,2 +1,2 @@
 # weathermap
-Collection of Satillite imagery.
+Collection of Weather Related Imagery.
